@@ -1,0 +1,24 @@
+{
+  "repository": "module-activity-comments-react-native",
+  "capabilityKey": "liberusoftware/activity-comments",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-activity-comments-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/boilerplate/nextjs/activity-comments.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
